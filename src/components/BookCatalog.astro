@@ -1,0 +1,21 @@
+---
+import BookCard from './BookCard.astro';
+import { getBooksBySeries } from '../lib/books';
+
+const groups = await getBooksBySeries();
+---
+
+{
+  groups.map((group) =>
+    group.books.length > 0 && (
+      <section class="series-block" id={group.id}>
+        <h2>{group.name}</h2>
+        <div class="book-grid">
+          {group.books.map((book) => (
+            <BookCard book={book} />
+          ))}
+        </div>
+      </section>
+    )
+  )
+}

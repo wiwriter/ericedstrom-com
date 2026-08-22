@@ -1,0 +1,27 @@
+---
+const links = [
+  { href: '/', label: 'Home' },
+  { href: '/buy-my-books/', label: 'Books' },
+  { href: '/free-starside-story/', label: 'Free story' },
+  { href: '/newsletter/', label: 'Newsletter' },
+  { href: '/starside-map/', label: 'Map' },
+  { href: '/contact-me/', label: 'Contact' },
+];
+
+const path = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Eric Kent Edstrom</a>
+    <nav class="nav" aria-label="Primary">
+      {
+        links.map((link) => (
+          <a href={link.href} aria-current={path === link.href ? 'page' : undefined}>
+            {link.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

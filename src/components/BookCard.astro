@@ -1,0 +1,40 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  book: CollectionEntry<'books'>;
+}
+
+const { book } = Astro.props;
+const { title, cover, genres, price, retailers } = book.data;
+---
+
+<article class="book-card">
+  {
+    cover && (
+      <img src={cover} alt={`Cover of ${title}`} width="400" height="600" loading="lazy" />
+    )
+  }
+  <div class="book-card-body">
+    <h3>{title}</h3>
+    {
+      (price || genres.length > 0) && (
+        <p class="meta">
+          {[price, genres.join(' · ')].filter(Boolean).join(' · ')}
+        </p>
+      )
+    }
+    {book.body && <p>{book.body.trim()}</p>}
+    {
+      retailers.length > 0 && (
+        <p class="retailers">
+          {retailers.map((store) => (
+            <a href={store.url} rel="noopener noreferrer">
+              {store.name}
+            </a>
+          ))}
+        </p>
+      )
+    }
+  </div>
+</article>
