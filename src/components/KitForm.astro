@@ -1,0 +1,56 @@
+---
+/**
+ * Official Kit (ConvertKit) HTML + JavaScript embed, matching the live
+ * /free-starside-story/ form: form 776916 / uid e97979a7ce.
+ * Temporary until ESP migration off Kit before Nov 2026.
+ */
+interface Props {
+  formId: string;
+  uid: string;
+  submitLabel?: string;
+}
+
+const { formId, uid, submitLabel = 'Sign up and Download' } = Astro.props;
+---
+
+<div class="kit-embed">
+  <script is:inline src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+  <form
+    action={`https://app.convertkit.com/forms/${formId}/subscriptions`}
+    class="seva-form formkit-form"
+    method="post"
+    data-sv-form={formId}
+    data-uid={uid}
+    data-format="inline"
+    data-version="5"
+  >
+    <div data-style="clean">
+      <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
+      <div data-element="fields" data-stacked="false" class="seva-fields formkit-fields">
+        <div class="formkit-field">
+          <input
+            class="formkit-input"
+            aria-label="Your first name"
+            name="fields[first_name]"
+            placeholder="Your first name"
+            type="text"
+          />
+        </div>
+        <div class="formkit-field">
+          <input
+            class="formkit-input"
+            name="email_address"
+            aria-label="Your email address"
+            placeholder="Your email address"
+            required
+            type="email"
+          />
+        </div>
+        <button data-element="submit" class="formkit-submit" type="submit">
+          <span>{submitLabel}</span>
+        </button>
+      </div>
+    </div>
+  </form>
+  <p class="kit-note">I send occasional emails about new releases and stories. Unsubscribe any time.</p>
+</div>

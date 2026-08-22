@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BookCatalog from '../components/BookCatalog.astro';
+import KitForm from '../components/KitForm.astro';
+import KitLanding from '../components/KitLanding.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((page) => ({
+    params: { slug: page.id },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+const { title, description, template, kit, cover, coverAlt } = page.data;
+---
+
+<BaseLayout title={title} description={description}>
+  <header class="page-header">
+    <h1>{title}</h1>
+  </header>
+
+  {
+    template === 'map' && cover && (
+      <p>
+        <a href={cover}>
+          <img
+            class="map-frame"
+            src={cover}
+            alt={coverAlt ?? 'Map of Ennith, the world of Starside Saga'}
+            width="1600"
+            height="1035"
+          />
+        </a>
+      </p>
+    )
+  }
+
+  {
+    cover && template === 'form' && (
+      <p class="cover-block">
+        <img class="cover-art" src={cover} alt={coverAlt ?? ''} width="400" height="638" />
+      </p>
+    )
+  }
+
+  <div class="prose">
+    <Content />
+  </div>
+
+  {
+    kit?.type === 'form' && kit.uid && (
+      <KitForm formId={kit.id} uid={kit.uid} />
+    )
+  }
+  {
+    kit?.type === 'landing' && (
+      <KitLanding
+        landingPageId={kit.id}
+        recaptcha={kit.id === '356631'}
+        submitLabel={kit.id === '355116' ? 'Get the Ebook!' : 'Subscribe'}
+      />
+    )
+  }
+
+  {template === 'catalog' && <BookCatalog />}
+</BaseLayout>

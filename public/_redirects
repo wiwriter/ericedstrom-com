@@ -1,0 +1,28 @@
+# Named redirects (preserve live WordPress URLs)
+/contact /contact-me/ 301
+/contact/ /contact-me/ 301
+/got-it /thank-you/ 301
+/got-it/ /thank-you/ 301
+/newsletter-sign-up /newsletter/ 301
+/newsletter-sign-up/ /newsletter/ 301
+
+# Slashless → trailing slash (Cloudflare Pages)
+/buy-my-books /buy-my-books/ 301
+/newsletter /newsletter/ 301
+/free-starside-story /free-starside-story/ 301
+/starside-map /starside-map/ 301
+/contact-me /contact-me/ 301
+/privacy-policy /privacy-policy/ 301
+/thank-you-so-much /thank-you-so-much/ 301
+/thank-you-for-your-response /thank-you-for-your-response/ 301
+/thief-thankyou /thief-thankyou/ 301
+/thank-you-for-staying /thank-you-for-staying/ 301
+/everything /everything/ 301
+/new-releases /new-releases/ 301
+/freebies-and-discounts /freebies-and-discounts/ 301
+/writer-group-list /writer-group-list/ 301
+/thank-you /thank-you/ 301
+/thank-you-for-supporting-your-libary /thank-you-for-supporting-your-libary/ 301
+/free-starside-saga-ebook /free-starside-saga-ebook/ 301
+/audiobook-notification-list /audiobook-notification-list/ 301
+/starside-saga-synopses /starside-saga-synopses/ 301

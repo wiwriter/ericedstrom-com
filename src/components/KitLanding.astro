@@ -1,0 +1,67 @@
+---
+/**
+ * Official Kit landing-page subscribe form (CKJS4 + api.kit.com),
+ * as used on the live WordPress site for landing pages 356631, 355116, 366354.
+ * Temporary until ESP migration off Kit before Nov 2026.
+ */
+interface Props {
+  landingPageId: string;
+  submitLabel?: string;
+  includeFirstName?: boolean;
+  recaptcha?: boolean;
+}
+
+const {
+  landingPageId,
+  submitLabel = 'Subscribe',
+  includeFirstName = true,
+  recaptcha = false,
+} = Astro.props;
+---
+
+<div class="kit-embed convertkit-form">
+  <script is:inline src="https://cdn.kit.com/assets/CKJS4.js?v=21"></script>
+  <form
+    id="ck_subscribe_form"
+    class="ck_subscribe_form"
+    action={`https://api.kit.com/landing_pages/${landingPageId}/subscribe`}
+    data-remote="true"
+  >
+    <input
+      type="hidden"
+      value='{"form_style":"naked","converted_behavior":"show","days_no_show":"15","delay_seconds":"10","display_devices":"all","display_position":"br","embed_style":"inline","embed_trigger":"scroll_percentage","scroll_percentage":"70"}'
+      id="ck_form_options"
+    />
+    <input type="hidden" name="id" value={landingPageId} id="landing_page_id" />
+    <input type="hidden" name="ck_form_recaptcha" value={recaptcha ? 'true' : ''} id="ck_form_recaptcha" />
+    <div class="ck_errorArea">
+      <div id="ck_error_msg" style="display:none">
+        <p>There was an error submitting your subscription. Please try again.</p>
+      </div>
+    </div>
+    <div id="ck_success_msg" style="display:none">
+      <p>Success! Now check your email to confirm.</p>
+    </div>
+    {
+      includeFirstName && (
+        <label>
+          First name
+          <input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" />
+        </label>
+      )
+    }
+    <label>
+      Email address
+      <input type="email" name="email" class="ck_email_address" id="ck_emailField" required />
+    </label>
+    <div class="ck_control_group ck_captcha2_h_field_group ck-captcha2-h" style="position:absolute;left:-999em">
+      <label for="ck_captcha2_h">
+        We use this field to detect spam bots. If you fill this in, you will be marked as a spammer.
+      </label>
+      <input type="text" name="captcha2_h" class="ck-captcha2-h" id="ck_captcha2_h" tabindex="-1" autocomplete="off" />
+    </div>
+    <button class="subscribe_button ck_subscribe_button" id="ck_subscribe_button" type="submit">
+      {submitLabel}
+    </button>
+  </form>
+</div>
