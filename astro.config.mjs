@@ -6,10 +6,7 @@ export default defineConfig({
   trailingSlash: 'always',
   redirects: {
     '/contact': '/contact-me/',
-    '/contact/': '/contact-me/',
     '/got-it': '/thank-you/',
-    '/got-it/': '/thank-you/',
     '/newsletter-sign-up': '/newsletter/',
-    '/newsletter-sign-up/': '/newsletter/',
   },
 });
