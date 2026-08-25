@@ -311,6 +311,16 @@ a:hover {
   border-radius: 0.8rem;
 }
 
+.kit-embed #ck_success_msg {
+  color: var(--ink);
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.kit-embed #ck_success_msg p {
+  margin: 0;
+}
+
 .kit-embed form {
   display: grid;
   gap: 0.7rem;
