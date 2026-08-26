@@ -43,13 +43,14 @@
           var(--bg);
         font-family: var(--sans);
         line-height: 1.65;
-        display: grid;
-        place-items: center;
-        padding: 2rem 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 2.25rem 1rem 3rem;
       }
 
       main {
-        width: min(32rem, 100%);
+        width: min(34rem, 100%);
         padding: 2rem 1.75rem 1.85rem;
         background: var(--bg-raised);
         border: 1px solid var(--line);
@@ -72,7 +73,7 @@
         line-height: 1.15;
       }
 
-      p {
+      .lede {
         margin: 0 0 1.25rem;
         color: var(--ink-muted);
         font-size: 1.08rem;
@@ -84,8 +85,42 @@
         margin: 0 0 1.15rem;
       }
 
-      .credit {
+      .sheet {
+        margin: 0.35rem 0 0;
+        padding: 1.35rem 0 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .stanza {
+        margin: 0 0 1.55rem;
+      }
+
+      .stanza:last-of-type {
+        margin-bottom: 0;
+      }
+
+      .stanza h2 {
+        margin: 0 0 0.4rem;
+        color: var(--ink-muted);
+        font-family: var(--sans);
+        font-size: 0.7rem;
+        font-weight: 600;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+
+      .stanza p {
         margin: 0;
+        color: var(--ink);
+        font-family: var(--serif);
+        font-size: 1.12rem;
+        line-height: 1.72;
+      }
+
+      .credit {
+        margin: 1.55rem 0 0;
+        padding-top: 1.15rem;
+        border-top: 1px solid var(--line);
         color: var(--ink-muted);
         font-size: 0.92rem;
       }
@@ -95,11 +130,107 @@
     <main>
       <p class="meta">Writing Hit Country Song Lyrics</p>
       <h1>Fall or Fly</h1>
-      <p>A Nashville demo of “Fall or Fly.”</p>
+      <p class="lede">A Nashville demo of “Fall or Fly.”</p>
       <audio controls src="/audio/fall-or-fly-beaird.mp3">
         Your browser does not support the audio element.
       </audio>
-      <p class="credit">Demo associated with Beaird.</p>
+      <section class="sheet" aria-label="Lyrics">
+        <div class="stanza">
+          <h2>Verse 1</h2>
+          <p>
+            I was the kid who said "look ma no hands"<br />
+            And jumped my bike over five trash cans<br />
+            Spent July and August with my leg in a cast<br />
+            Tried to parachute off the old tool shed<br />
+            With the Batman blanket from my brother's bed<br />
+            I swear I caught some air before I hit my head
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Prechorus</h2>
+          <p>
+            Yeah the funny thing is<br />
+            I'm still that kid
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Chorus</h2>
+          <p>
+            Fall or fly<br />
+            That's how I live my life<br />
+            Throwing myself right off the edge<br />
+            No stunt double no safety net<br />
+            Fall or fly<br />
+            It's all or nothing time<br />
+            I gotta commit and give to it<br />
+            One hundred and ten percent<br />
+            I take a running start and leap for the sky<br />
+            I go for it all<br />
+            Fall or fly
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Verse 2</h2>
+          <p>
+            My guidance counselor senior year<br />
+            Said "country music is a tough career"<br />
+            "How you gonna make it?" I said "I'll play it by ear"<br />
+            Got an old guitar and hit the road<br />
+            Playing every dive bar like a headline show<br />
+            Hungry all the time, but it never got old
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Prechorus</h2>
+          <p>
+            Yeah, the thrill for me<br />
+            Was having no plan B
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Chorus</h2>
+          <p>
+            Fall or fly<br />
+            That's how I live my life<br />
+            Throwing myself right off the edge<br />
+            No stunt double no safety net<br />
+            Fall or fly<br />
+            It's all or nothing time<br />
+            I gotta commit and give to it<br />
+            One hundred and ten percent<br />
+            I take a running start and leap for the sky<br />
+            I go for it all<br />
+            Fall or fly
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Bridge</h2>
+          <p>
+            I've crashed and burned so many times<br />
+            Even my scars have scars<br />
+            It always takes a lot of tries<br />
+            If you wanna reach the stars
+          </p>
+        </div>
+        <div class="stanza">
+          <h2>Chorus / Outro</h2>
+          <p>
+            So fall or fly<br />
+            That's how I live my life<br />
+            Throwing myself right off the edge<br />
+            No stunt double no safety net<br />
+            Fall or fly<br />
+            It's all or nothing time<br />
+            I gotta commit and give to it<br />
+            One hundred and ten percent<br />
+            I take a running start and leap for the sky<br />
+            Yeah I feel the most alive when I<br />
+            Go for it all<br />
+            Fall or fly
+          </p>
+        </div>
+      </section>
+      <p class="credit">Words and music by Eric Kent Edstrom. Nashville demo.</p>
     </main>
   </body>
 </html>
