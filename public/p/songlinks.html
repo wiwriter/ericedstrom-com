@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fall or Fly · Nashville Demo</title>
+    <meta
+      name="description"
+      content="A Nashville demo of “Fall or Fly,” from the book Writing Hit Country Song Lyrics."
+    />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <style>
+      :root {
+        --bg: #f6f1e8;
+        --bg-raised: #fffdf8;
+        --ink: #1c1916;
+        --ink-muted: #5c554c;
+        --line: #d9d0c1;
+        --accent: #8a3d1b;
+        --accent-hover: #6c2e13;
+        --gold: #c49a3c;
+        --shadow: 0 18px 40px rgba(28, 25, 22, 0.08);
+        --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+        --sans: "Avenir Next", "Segoe UI", Candara, Calibri, sans-serif;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html {
+        background: var(--bg);
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--ink);
+        background:
+          radial-gradient(1200px 500px at 10% -10%, rgba(196, 154, 60, 0.12), transparent 55%),
+          var(--bg);
+        font-family: var(--sans);
+        line-height: 1.65;
+        display: grid;
+        place-items: center;
+        padding: 2rem 1rem;
+      }
+
+      main {
+        width: min(32rem, 100%);
+        padding: 2rem 1.75rem 1.85rem;
+        background: var(--bg-raised);
+        border: 1px solid var(--line);
+        border-radius: 0.8rem;
+        box-shadow: var(--shadow);
+      }
+
+      .meta {
+        margin: 0 0 0.55rem;
+        color: var(--ink-muted);
+        font-size: 0.88rem;
+      }
+
+      h1 {
+        margin: 0 0 0.65rem;
+        font-family: var(--serif);
+        font-weight: 600;
+        font-size: 2rem;
+        letter-spacing: -0.02em;
+        line-height: 1.15;
+      }
+
+      p {
+        margin: 0 0 1.25rem;
+        color: var(--ink-muted);
+        font-size: 1.08rem;
+      }
+
+      audio {
+        display: block;
+        width: 100%;
+        margin: 0 0 1.15rem;
+      }
+
+      .credit {
+        margin: 0;
+        color: var(--ink-muted);
+        font-size: 0.92rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="meta">Writing Hit Country Song Lyrics</p>
+      <h1>Fall or Fly</h1>
+      <p>A Nashville demo of “Fall or Fly.”</p>
+      <audio controls src="/audio/fall-or-fly-beaird.mp3">
+        Your browser does not support the audio element.
+      </audio>
+      <p class="credit">Demo associated with Beaird.</p>
+    </main>
+  </body>
+</html>
