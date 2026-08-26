@@ -6,10 +6,6 @@
 /newsletter-sign-up /newsletter/ 301
 /newsletter-sign-up/ /newsletter/ 301
 
-# Printed booklet URL from Writing Hit Country Song Lyrics (2012)
-/p/songlinks /p/songlinks.html 301
-/p/songlinks/ /p/songlinks.html 301
-
 # Slashless → trailing slash (Cloudflare Pages)
 /buy-my-books /buy-my-books/ 301
 /newsletter /newsletter/ 301
