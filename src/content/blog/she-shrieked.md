@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/she-shrieked/
 
 ### One of the fake [writer landmines](/blog/stomping-on-landmines/) is the so-called “he saidism.”
 
+![](/images/blog/she-shrieked-hero.jpg)
+
 Some editors and style experts will tell you to never use any dialog tag other than “he said” or “she asked.” They might allow an occasional “she whispered” or “he shouted.”
 
 This landmine is easily avoided because 1) it’s not difficult to understand and respect, or 2) you can stomp on it and discover that almost no _reader_ cares. Many huge selling writers put all sorts of dialog tags in their fiction. “He shrieked” “he groaned” “she sighed” “she warbled.”

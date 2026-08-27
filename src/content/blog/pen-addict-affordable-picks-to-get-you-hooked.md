@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/pen-addict-affordable-picks-to-get-you
 
 I’m not even ashamed of it. I love pens and pencils and empty journals and planners and pretty much anything that involves putting words onto paper. (Typewriters? Oh, yes indeed!)
 
+![](/images/blog/pen-addict-affordable-picks-to-get-you-hooked-hero.jpg)
+
 If you get the pen bug, you might start getting pulled into ever more expensive and exotic choices. But if you simply want a really good inking experience, here are my recommendations.
 
 **[The Pilot G2](https://www.amazon.com/Pilot-Retractable-Premium-Assorted-31128/dp/B00092RJX0/?tag=wwwericedstro-20)** Shown here in a variety pack of colors. My favorite version of this one is the black ink. These provide a silky smooth writing experience, with good coverage and no skips.

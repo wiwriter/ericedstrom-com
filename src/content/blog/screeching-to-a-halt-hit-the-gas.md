@@ -7,6 +7,7 @@ original_url: https://www.ericedstrom.com/screeching-to-a-halt-hit-the-gas/
 
 ### A writer’s momentum often slows right at the 1/3 point of their novel. Here’s what to do if that happens to you.
 
+![](/images/blog/screeching-to-a-halt-hit-the-gas-hero.jpg)
 
 I’m writing this on November 10th, which marks the 1/3 point of NaNoWriMo.
 

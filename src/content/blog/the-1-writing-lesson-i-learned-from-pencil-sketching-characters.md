@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/the-1-writing-lesson-i-learned-from-pe
 
 As a visual artist, I’m at a disadvantage. I have zero natural talent.
 
+![](/images/blog/the-1-writing-lesson-i-learned-from-pencil-sketching-characters-hero.jpg)
+
 But that’s not stopping me from learning to draw. My ultimate goal is to be able to draw concept art of my characters. So I’ve been drawing heads (from every angle) for days. They are invariably bad, but they are improving.
 
 So what does this have to do with writing?

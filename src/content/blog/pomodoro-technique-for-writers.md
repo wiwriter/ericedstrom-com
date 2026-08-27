@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/pomodoro-technique-for-writers/
 
 I got off to a rocky start yesterday, but I did hit my daily wordcount goal of 1800 words.
 
+![](/images/blog/pomodoro-technique-for-writers-hero.jpg)
+
 That’s because I know a technique that really helps build momentum in any situation. You may have heard of it:
 
 **Pomodoro Technique**

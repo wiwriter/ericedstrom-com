@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/how-do-you-pronounce-that-naming-chara
 
 One thing that satisfies my power madness is naming characters.
 
+![](/images/blog/how-do-you-pronounce-that-naming-characters-hero.jpg)
+
 I love naming characters, but here’s a secret: I don’t think about it for very long. I have never agonized over what to name a character.
 
 I don’t know if this even counts as a tip, but when I need to name a character I just start typing consonants and vowels and see what comes out. If it’s too close to another name I’ve already used, I change a couple letters.
