@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/write-a-page-turner-with-the-bttr-tech
 
 Want to know how to write a page turner?
 
+![](/images/blog/write-a-page-turner-with-the-bttr-technique-hero.jpg)
+
 The kind that readers simply cannot put down?
 
 

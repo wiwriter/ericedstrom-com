@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/stomping-on-landmines/
 
 ## Don’t let fear of grammar errors or style “don’ts” stop you.
 
+![](/images/blog/stomping-on-landmines-hero.jpg)
+
 The landmine problem kept me from writing for decades.
 
 Yes. Decades.

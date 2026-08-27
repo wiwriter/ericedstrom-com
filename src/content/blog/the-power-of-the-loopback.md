@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/the-power-of-the-loopback/
 
 I hit my wordcount goal yesterday (Nov. 6th, 2020), but it took longer than usual.
 
+![](/images/blog/the-power-of-the-loopback-hero.jpg)
+
 Why? Because I did a loopback!
 
 I’m a huge advocate of writing forward, and keeping momentum going. But sometimes you don’t remember what you wrote two days ago. It’s okay to loop back, read through it, fix little errors, and add in details **as long as you stay in the mindset of discovery** and avoid the overthinking that comes with invention.

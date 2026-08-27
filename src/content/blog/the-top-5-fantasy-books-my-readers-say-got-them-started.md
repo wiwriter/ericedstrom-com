@@ -5,6 +5,8 @@ slug: the-top-5-fantasy-books-my-readers-say-got-them-started
 original_url: https://www.ericedstrom.com/the-top-5-fantasy-books-my-readers-say-got-them-started/
 ---
 
+![](/images/blog/the-top-5-fantasy-books-my-readers-say-got-them-started-hero.jpg)
+
 **#1 The Hobbit and The Lord of the Rings by JRR Tolkien.**
 
 This is my shocked face. 😐 Readers mentioned this most often as the first fantasy series that set them on the road of a lifelong obsession with fantasy.

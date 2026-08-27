@@ -9,9 +9,7 @@ George Orwell _struggled_ with his writing.
 
 In a letter to a friend he wrote, “I am so miserable, struggling in the entrails of that dreadful book and never getting any further, and loathing the sight of what I have done. _Never_ start writing novels, if you wish to preserve your happiness.”
 
-![](/images/blog/Depositphotos_81126094_l-2015.jpg)
-
-photo by 4masik
+![](/images/blog/hating-or-loving-your-writing-is-a-choice-hero.jpg)
 
 His letters are filled with this sort of stuff.
 

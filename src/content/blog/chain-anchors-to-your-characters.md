@@ -9,8 +9,6 @@ original_url: https://www.ericedstrom.com/chain-anchors-to-your-characters/
 
 ![](/images/blog/chain-anchors-to-your-characters-hero.jpg)
 
-Photo by IgorVetushko
-
 Here’s the problem. I read some books very slowly. I might read chapter 2 on Monday and not get to chapter 20 for a couple weeks. So that side character with Very Important Information who the detective spoke to in chapter 2 will be forgotten by the time I get to his reappearance in chapter 20.
 
 Characters that come and go like this are important, but can also be confusing. If you’ve ever been 2/3s through a book and had to stop and say, “who _is_ this guy?” then you know what I mean.

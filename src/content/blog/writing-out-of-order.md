@@ -8,6 +8,8 @@ description: "You don’t have to write your novel in sequence."
 
 You don’t have to write your novel in sequence.
 
+![](/images/blog/writing-out-of-order-hero.jpg)
+
 I know of at least one writer who doesn’t know what order scenes will be in when she first writes them. Once she has a bunch of chapters, she sits on the floor and arranges them. Then she writes transitions to make them fit together.
 
 If this sounds crazy, don’t do it.

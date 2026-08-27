@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/what-about-story-structure/
 
 Does it feel natural to you to outline your novel?
 
+![](/images/blog/what-about-story-structure-hero.jpg)
+
 Go ahead!
 
 I know many authors who do that. And they are very deliberate about the three act structure. They puzzle over what inciting incident will kick off the action. They scribble down their M.I.C.E quotient, or plot out the 40 beats of the Save the Cat formula. They’ll make sure they’ve plotted a false victory, a dark night of the soul, and a Hero Returns Home.

@@ -7,6 +7,7 @@ original_url: https://www.ericedstrom.com/holy-plotholes-batman/
 
 ### fix plotholes with reasons
 
+![](/images/blog/holy-plotholes-batman-hero.jpg)
 
 You’ve been merrily writing along, building your story day by day, and yet something about it nags at you. Some doubt.
 

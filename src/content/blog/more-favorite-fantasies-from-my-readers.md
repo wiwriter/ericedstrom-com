@@ -7,6 +7,8 @@ original_url: https://www.ericedstrom.com/more-favorite-fantasies-from-my-reader
 
 My post [Top 5 Fantasy Books my readers say got them started](/blog/the-top-5-fantasy-books-my-readers-say-got-them-started/) sure stirred up some controversy.
 
+![](/images/blog/more-favorite-fantasies-from-my-readers-hero.jpg)
+
 So here are more books that my readers insist deserve consideration:
 
 ***Memory, Sorrow and Thorn Trilogy* by Tad Williams:** (which is 4 books because the last one was so enormously long they had to split it in two). Start with [The Dragon Bone Chair](https://www.amazon.com/Dragonbone-Chair-Memory-Sorrow-Thorn-ebook/dp/B00316UMPS/?tag=wwwericedstro-20).
