@@ -7,6 +7,7 @@ catalogOrder: 8
 genres:
   - Epic Fantasy
   - Fantasy
+cover: /images/covers/fortress-of-shadow.jpg
 retailers:
   - name: "Amazon"
     url: https://www.amazon.com/s?k=Fortress+of+Shadow+Edstrom+Eric+Kent+Edstrom
