@@ -50,7 +50,7 @@ For now, just try it out.
 
 You don’t need to italicize thoughts most of the time. But in some genres it is standard and readers like it. Some editors hate italicized thoughts. I’ve never read a convincing explanation for or against it.
 
-> Dang. There was a cat ahead. Nasty calico with a notched ear. She circled to keep wide of it. _Can’t trust cats._ Sneaky little devils. They play with their kills. Merciless. She had no idea how people tolerated them in their homes. Growing up on the farm they were everywhere. Only purpose they served was to keep the dogs busy. She’d trained ol’ Barney to kill them every chance he got.
+> Dang. There was a cat ahead. Nasty calico with a notched ear. She circled to keep wide of it. _Can’t trust cats. Sneaky little devils. They play with their kills. Merciless._ She had no idea how people tolerated them in their homes. Growing up on the farm they were everywhere. Only purpose they served was to keep the dogs busy. She’d trained ol’ Barney to kill them every chance he got.
 
 To me that has a different feel, a different pace. I “hear” the italicized thoughts as unvoiced dialogue. So make your choice based on how it sounds best to you.
 
