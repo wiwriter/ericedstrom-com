@@ -10,7 +10,7 @@ The best advice I ever heard about writing endings was this:
 “If you can’t write your ending, read your beginning.”
 
 
-photo: deagreez1
+![](/images/blog/my-novel-hates-me-and-refuses-to-end-hero.jpg)
 
 Do yourself a favor and refresh your memory on the first couple chapters, especially the opening pages of your novel, and ask:
 

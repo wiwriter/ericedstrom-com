@@ -10,7 +10,7 @@ Your story comes out of a mind, a psychology, a world view.
 It’s the same brain that worries, and loves, and envies. It’s the same mind that dreams when it sleeps. Or that gets hooked on a TV show or finishes a bag of chips without thinking about it.
 
 
-photo kevron2002
+![](/images/blog/delving-too-deep-when-writing-becomes-dangerous-hero.jpg)
 
 Nothing exists in your story that doesn’t come up from the depths of that same mind.
 
