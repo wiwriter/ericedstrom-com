@@ -11,7 +11,7 @@ Your character has thoughts, share them.
 How much woolgathering your POV character can do is dependent on your genre and your particular style. I like characters who think and reflect. In fact, it’s required if we are to write descriptions that are filtered through opinion.
 
 
-Photo by SergeyNivens
+![](/images/blog/your-characters-deepest-darkests-thoughts-hero.jpg)
 
 So how do we deliver thoughts effectively?
 

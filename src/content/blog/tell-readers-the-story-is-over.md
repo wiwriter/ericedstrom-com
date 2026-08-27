@@ -12,7 +12,7 @@ We want others to confirm our genius.
 Readers just want you to confirm that the story is over.
 
 
-Photo: dima_sidelnikov
+![](/images/blog/tell-readers-the-story-is-over-hero.jpg)
 
 The validation readers need comes at the end of your story. It’s the scene or scenes following the climax, after the main plot closes.
 

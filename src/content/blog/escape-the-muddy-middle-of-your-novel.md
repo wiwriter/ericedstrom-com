@@ -8,7 +8,7 @@ original_url: https://www.ericedstrom.com/escape-the-muddy-middle-of-your-novel/
 Writing through the middle of your novel can be like trudging through a bog, every step an enormous effort, mud sucking your shoes and socks off as you go.
 
 
-Photo by Vadymvdrobot
+![](/images/blog/escape-the-muddy-middle-of-your-novel-hero.jpg)
 
 In the distance, fog. Behind you, fog. Above you, fog.
 

@@ -9,7 +9,7 @@ description: "One of the biggest challenges of writing a novel is dealing with d
 One of the biggest challenges of writing a novel is dealing with descriptions.
 
 
-photo by thirteen
+![](/images/blog/compelling-descriptions-are-full-of-opinions-hero.jpg)
 
 Most people get bored reading long descriptions of rooms, or castles, or women’s ball gowns. Most writers are bored writing such descriptions.
 

@@ -10,7 +10,7 @@ I used to be too nice to my main characters.
 I’d put them in danger, I’d subject them to fights they couldn’t win, I’d imprison them, and once I had aliens install a brain implant through my character’s nose.
 
 
-photo acobchuk1
+![](/images/blog/the-final-battle-is-for-your-heros-soul-not-his-life-hero.jpg)
 
 But these sorts of discomforts and pains are first level pains. Readers can be intrigued by these problems, but they’re so used to reading them, they don’t feel especially moved by them.
 

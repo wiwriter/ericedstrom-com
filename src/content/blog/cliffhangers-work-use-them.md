@@ -10,7 +10,7 @@ Readers say they hate cliffhangers.
 But readers reward cliffhangers . . . at the end of chapters.
 
 
-photo: everett225
+![](/images/blog/cliffhangers-work-use-them-hero.jpg)
 
 There are all sorts of cliffhangers, and you can use them throughout your book to create suspense, intriguing confusion, and surprise.
 

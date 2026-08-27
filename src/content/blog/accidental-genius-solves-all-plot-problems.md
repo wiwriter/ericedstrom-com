@@ -10,7 +10,7 @@ I am often impressed by my own accidental genius.
 Wait. What?
 
 
-photo: Milkos
+![](/images/blog/accidental-genius-solves-all-plot-problems-hero.jpg)
 
 Accidental genius is one of the great joys of writing fiction. And you have already encountered it.
 

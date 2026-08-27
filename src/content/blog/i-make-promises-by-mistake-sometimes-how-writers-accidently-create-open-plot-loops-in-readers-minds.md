@@ -9,7 +9,7 @@ description: "We sometimes make promises to readers without realizing it."
 We sometimes make promises to readers without realizing it. This happens all the time when we introduce an intriguing mystery or enigmatic character. Some won’t remember them, and won’t notice if you never show the resolution or purpose of these elements.
 
 
-photo Slphotography
+![](/images/blog/i-make-promises-by-mistake-sometimes-how-writers-accidently-create-open-plot-loops-in-readers-minds-hero.jpg)
 
 But others will, especially if you have re-readers.
 
