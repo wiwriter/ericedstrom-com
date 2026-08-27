@@ -1,17 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogEntry from '../../components/BlogEntry.astro';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
-
-const dateFmt = new Intl.DateTimeFormat('en-US', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-  timeZone: 'UTC',
-});
 ---
 
 <BaseLayout title="Blog" description="Writing craft notes by Eric Kent Edstrom.">
@@ -19,21 +13,7 @@ const dateFmt = new Intl.DateTimeFormat('en-US', {
     <h1>Blog</h1>
   </header>
 
-  <div class="prose">
-    {
-      posts.map((post) => (
-        <article>
-          <h2>
-            <a href={`/blog/${post.data.slug}/`}>{post.data.title}</a>
-          </h2>
-          <p class="meta">
-            <time datetime={post.data.date.toISOString().slice(0, 10)}>
-              {dateFmt.format(post.data.date)}
-            </time>
-          </p>
-          {post.data.description ? <p>{post.data.description}</p> : null}
-        </article>
-      ))
-    }
+  <div class="blog-feed">
+    {posts.map((post) => <BlogEntry post={post} />)}
   </div>
 </BaseLayout>

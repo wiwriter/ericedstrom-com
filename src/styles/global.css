@@ -133,6 +133,46 @@ a:hover {
   font-family: var(--serif);
 }
 
+.blog-feed {
+  max-width: 44rem;
+}
+
+.blog-entry + .blog-entry {
+  margin-top: 3.25rem;
+  padding-top: 3.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.blog-entry > header {
+  margin-bottom: 1.15rem;
+}
+
+.blog-entry h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  font-size: 1.7rem;
+  margin: 0 0 0.35rem;
+}
+
+.blog-entry h2 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.blog-entry h2 a:hover {
+  color: var(--accent);
+}
+
+.blog-entry .meta {
+  margin: 0;
+}
+
+.blog-entry .prose {
+  max-width: none;
+}
+
 .hero {
   display: grid;
   grid-template-columns: 1.2fr 0.8fr;
