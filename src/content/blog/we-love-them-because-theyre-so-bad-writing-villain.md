@@ -11,7 +11,7 @@ Everyone loves bad guys.
 But how do we make sure our villain isn’t a mustache twirling sadist, who is bad only because he does bad things.
 
 
-photo by sellingpix
+![](/images/blog/we-love-them-because-theyre-so-bad-writing-villain-hero.jpg)
 
 The more readers can understand the bad guy’s motives, the more layered the experience of the story.
 

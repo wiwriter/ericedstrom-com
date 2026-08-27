@@ -8,7 +8,7 @@ original_url: https://www.ericedstrom.com/practice-your-skills-and-publish-your-
 I’m surprised by how many writers I meet who misunderstand the 10,000 hour rule.
 
 
-Photo: Khakimullin
+![](/images/blog/practice-your-skills-and-publish-your-practice-hero.jpg)
 
 Popularized by Malcolm Gladwell in his quadrillion selling “Outliers,” the idea is that a person needs 10,000 hours of intentional practice to master a complex skill like playing an instrument.
 

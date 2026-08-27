@@ -12,7 +12,7 @@ It’s tempting to go straight at the emotion of a scene. To write what the char
 That lets the reader know it. But it doesn’t make the reader feel it.
 
 
-photo mark@rocketclips.com
+![](/images/blog/you-got-me-feeling-emotions-hero.jpg)
 
 The picture above conveys tenderness, love, partnership, safety, comfort, ease. And we can sense it because we can see it.
 

@@ -9,7 +9,7 @@ description: "Your hero has helpers. These characters make up his team."
 Your hero has helpers. These characters make up his team.
 
 
-photo ufabizphoto
+![](/images/blog/i-wrote-a-novel-and-5-characters-had-no-reason-to-exist-hero.jpg)
 
 I didn’t realize this when I wrote my first novel. I just threw names out and characters started having conversations and then plot happened.
 

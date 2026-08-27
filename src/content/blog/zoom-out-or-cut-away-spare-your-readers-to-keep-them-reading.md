@@ -10,7 +10,7 @@ I can’t watch gross-out tv shows or movies.
 I don’t like close-ups of extreme emotional anguish either and most readers don’t either. But sometimes we have to write scenes of extreme events.
 
 
-Photo: Wavebreakmedia
+![](/images/blog/zoom-out-or-cut-away-spare-your-readers-to-keep-them-reading-hero.jpg)
 
 When we subject our reader to discomfort, we’re making a choice that might cause them to put the book down. This doesn’t mean we eschew difficult situations or topics in our novels. Quite the opposite.
 

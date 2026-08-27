@@ -8,7 +8,7 @@ original_url: https://www.ericedstrom.com/be-very-judgy-of-others/
 ## When introducing characters, let your POV character’s opinion show
 
 
-SIphotography
+![](/images/blog/be-very-judgy-of-others-hero.jpg)
 
 One of my first emails this month was about a powerful technique for writing descriptions. At the time I was focussed on establishing your setting.
 
