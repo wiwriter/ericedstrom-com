@@ -1,7 +1,7 @@
 ---
-title: "Bigfoot Galaxy: Afterlife (aka Afterlife)"
+title: "Afterlife"
 series: bigfoot-galaxy
-seriesName: "Bigfoot Galaxy / Undermountain"
+seriesName: "The Undermountain Saga"
 seriesOrder: 2
 catalogOrder: 23
 genres:

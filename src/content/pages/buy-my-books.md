@@ -1,6 +1,6 @@
 ---
 title: Book catalog
-description: Eric Kent Edstrom’s catalog — Starside Saga, Starside Tales, The Scion Chronicles, and Bigfoot Galaxy / Undermountain.
+description: Eric Kent Edstrom’s catalog — Starside Saga, Starside Tales, The Scion Chronicles, and The Undermountain Saga.
 template: catalog
 ---
 

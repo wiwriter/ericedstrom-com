@@ -1,7 +1,7 @@
 ---
-title: "Bigfoot Galaxy: Expedition (aka Undermountain)"
+title: "Undermountain"
 series: bigfoot-galaxy
-seriesName: "Bigfoot Galaxy / Undermountain"
+seriesName: "The Undermountain Saga"
 seriesOrder: 1
 catalogOrder: 22
 genres:

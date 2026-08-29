@@ -1,7 +1,7 @@
 ---
 title: "The Undermountain Saga: Boxed Set (Books 1–3)"
 series: bigfoot-galaxy
-seriesName: "Bigfoot Galaxy / Undermountain"
+seriesName: "The Undermountain Saga"
 seriesOrder: 0
 catalogOrder: 21
 genres:
