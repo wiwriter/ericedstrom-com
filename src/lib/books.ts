@@ -4,7 +4,7 @@ export const seriesOrder = [
   { id: 'starside-saga', name: 'Starside Saga' },
   { id: 'starside-tales', name: 'Starside Tales' },
   { id: 'scion-chronicles', name: 'The Scion Chronicles' },
-  { id: 'bigfoot-galaxy', name: 'Bigfoot Galaxy / Undermountain' },
+  { id: 'bigfoot-galaxy', name: 'The Undermountain Saga' },
   { id: 'sal-van-sleen', name: 'Sal Van Sleen' },
 ] as const;
 

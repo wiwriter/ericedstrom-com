@@ -1,7 +1,7 @@
 ---
-title: "Bigfoot Galaxy: Star-Striker (aka Starkiller)"
+title: "Star-Striker"
 series: bigfoot-galaxy
-seriesName: "Bigfoot Galaxy / Undermountain"
+seriesName: "The Undermountain Saga"
 seriesOrder: 3
 catalogOrder: 24
 genres:
